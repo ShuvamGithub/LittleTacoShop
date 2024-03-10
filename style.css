@@ -59,7 +59,7 @@ input,button,textarea {
 }
 /* End of Variables. */
 
-/* @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
     :root {
         --BGCOLOR: black;
         --BGCOLOR-FADE: gray;
@@ -75,7 +75,7 @@ input,button,textarea {
         --LINK-ACTIVE: rgb(252,200,103);
         --BUTTON-COLOR: #333;
     }
-} */
+}
 
 
 /* ||UTILITY CLASSES */
