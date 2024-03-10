@@ -59,7 +59,7 @@ input,button,textarea {
 }
 /* End of Variables. */
 
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
     :root {
         --BGCOLOR: black;
         --BGCOLOR-FADE: green;
